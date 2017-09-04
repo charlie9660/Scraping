@@ -1,7 +1,6 @@
 # Scraping Script 0.0.1 
 
-1.Work with Dynamic website and avoid bot detection to some level
-  for this site http://streeteasy.com/
+1.Work with http://streeteasy.com/
 
 Usage:
   
