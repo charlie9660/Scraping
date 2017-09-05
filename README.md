@@ -9,4 +9,8 @@ Usage:
   
 TODO:
    Use beautiful soup for static site scraping
+   
+# Scraping Script 0.0.2
+
+Use beautiful soup to scrape a boat website, faster processing for static scraping
 
