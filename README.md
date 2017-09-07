@@ -9,6 +9,7 @@ Usage:
   
 TODO:
    Use beautiful soup for static site scraping
+   Done
    
 # Scraping Script 0.0.2
 1.http://www.boattrader.com/
@@ -17,3 +18,4 @@ Use beautiful soup to scrape a boat website, faster processing for static scrapi
 2.Now loop through the entire website and fetch information
 Attached data for every listed boat info within 200 miles of 14853
 
+Todo: Document scraping
