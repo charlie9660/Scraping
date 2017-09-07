@@ -14,4 +14,5 @@ TODO:
 http://www.boattrader.com/
 Use beautiful soup to scrape a boat website, faster processing for static scraping
 Now loop through the entire website and fetch information
+Attached data for every listed boat info within 200 miles of 14853
 
