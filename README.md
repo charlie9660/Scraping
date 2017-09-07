@@ -11,8 +11,9 @@ TODO:
    Use beautiful soup for static site scraping
    
 # Scraping Script 0.0.2
-http://www.boattrader.com/
+1.http://www.boattrader.com/
 Use beautiful soup to scrape a boat website, faster processing for static scraping
-Now loop through the entire website and fetch information
+
+2.Now loop through the entire website and fetch information
 Attached data for every listed boat info within 200 miles of 14853
 
